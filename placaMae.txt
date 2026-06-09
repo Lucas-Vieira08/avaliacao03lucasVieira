@@ -1,0 +1,5 @@
+A placa-mãe (motherboard ou mainboard) 
+é a principal placa de circuito do computador. 
+Ela atua como a espinha dorsal da máquina, conectando fisicamente 
+e permitindo a comunicação entre todos os componentes, como processador (CPU), 
+memória RAM, placa de vídeo e dispositivos de armazenamento.
