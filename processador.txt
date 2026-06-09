@@ -1,4 +1,5 @@
 O processador (também chamado de CPU ou Unidade Central de Processamento)
 é o cérebro do seu dispositivo.
 Ele recebe, interpreta e executa instruções de programas 
-e sistemas operacionais, coordenando todos os outros componentes de hardware
+e sistemas operacionais, coordenando todos os outros componentes de hardware.
+Existe processadores da Intel, Ryzen e etc

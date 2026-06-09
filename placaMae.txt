@@ -3,3 +3,4 @@ A placa-mãe (motherboard ou mainboard)
 Ela atua como a espinha dorsal da máquina, conectando fisicamente 
 e permitindo a comunicação entre todos os componentes, como processador (CPU), 
 memória RAM, placa de vídeo e dispositivos de armazenamento.
+Uma das marcas mais famosas é a Asus.
